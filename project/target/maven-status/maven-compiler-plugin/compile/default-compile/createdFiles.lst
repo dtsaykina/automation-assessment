@@ -1,0 +1,14 @@
+org\example\pages\models\LoginPage.class
+org\example\pages\models\CheckoutPage.class
+org\example\rest\models\basket\BasketAPITestBase.class
+org\example\db\DbConnection.class
+org\example\db\DbUtils.class
+org\example\pages\models\HomePage.class
+org\example\config\Config.class
+org\example\rest\RestClient.class
+org\example\rest\models\basket\BasketRequestSpec.class
+org\example\rest\models\basket\BasketResponseSpec.class
+org\example\pages\models\BasketPage.class
+org\example\pages\PageUtils.class
+org\example\pages\TestBase.class
+org\example\rest\Endpoint.class
